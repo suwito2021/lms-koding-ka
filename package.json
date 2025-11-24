@@ -1,0 +1,26 @@
+{
+  "name": "ai-coding-lms",
+  "version": "1.0.0",
+  "description": "Platform Pembelajaran Koding dan Kecerdasan Artificial",
+  "main": "Index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "education",
+    "coding",
+    "ai",
+    "lms",
+    "indonesia"
+  ],
+  "author": "AI Coding Academy",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
